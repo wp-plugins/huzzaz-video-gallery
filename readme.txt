@@ -68,8 +68,8 @@ Sign up [here](http://huzzaz.com/beta/join) and create a collection
 
 == Screenshots ==
 
-1. Easy to set up, organize and manage a beautiful video gallery `/assets/videogallerySS.png`
-1. Responsive and fills up any containing element `/assets/wpVGSS.png`
+1. Easy to set up, organize and manage a beautiful video gallery
+2. Responsive and fills up any containing element
 
 == Changelog ==
 
