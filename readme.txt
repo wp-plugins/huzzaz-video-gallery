@@ -70,6 +70,7 @@ Sign up [here](http://huzzaz.com/beta/join) and create a collection
 
 1. Easy to set up, organize and manage a beautiful video gallery
 2. Responsive and fills up any containing element
+3. You can even put it in a blog post
 
 == Changelog ==
 
