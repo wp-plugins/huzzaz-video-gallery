@@ -23,7 +23,7 @@ Share a Huzzaz video collection in an awesome video gallery with a simple shortc
 Top 3 reasons to use Huzzaz Video Gallery:
 
 1. Update your video gallery without messing with the WP admin panel
-1. Fully responsive to fill any containing element it is placed in
+1. Fully responsive to fill any containing element it is placed in, even blog posts
 1. Automatically paginates when you choose the # of videos you want show on a page
 
 Sign up to create video collections on Huzzaz for FREE [here](http://huzzaz.com/beta/join)
