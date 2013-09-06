@@ -18,12 +18,7 @@ Huzzaz allows you to easily build and organize video collections online
 
 Share a Huzzaz video collection in an awesome video gallery with a simple shortcode
 
-[huzzaz id="{collection ID}" vpp="{# of videos per page}" height="{height of video gallery in pixels}"]
-
-ex: [huzzaz id="infinitylist" vpp="16" height="1700"]
-
-The id of a Huzzaz video collection is found at the end of the url after "huzzaz.com/collection/"
-ex: the id of a Huzzaz collection whose URL is http://huzzaz.com/collection/stereo-inc is "stereo-inc"
+[huzzaz]
 
 Your video gallery will be:
 
@@ -31,26 +26,29 @@ Your video gallery will be:
 * Automatically paginate according to the vpp (videos per page)
 * Manage your video gallery on huzzaz.com and your embedded gallery is automatically synced with your collection on Huzzaz.
 
+Sign up to create video collections on Huzzaz for FREE [here](http://huzzaz.com/beta/join)
 
 Features:
 
 * Automatically plays the next video after current video is playing
 * Highlights current video that’s playing and shows title in the title bar
 * Huzzaz gallery has drag and drop functionality to reorganize videos in collection
-* Easily add videos to your collection:
-* From any website with the Huzzaz bookmarklet
-* Using links to YouTube or Vimeo videos
-* Using our Huzzaz search which aggregates both YouTube and Vimeo videos
-* Collecting videos from other collections found on Huzzaz
-* Importing a YouTube playlist
-
-Sign up to create video collections on Huzzaz [here](http://huzzaz/com/beta/join)
+* Add videos from any website with the Huzzaz bookmarklet...
+* or use links to YouTube or Vimeo videos...
+* Or search YouTube and Vimeo videos at the same time!
+* OR discover awesome videos from other Huzzaz collections and add them to your own!!
+* OAR import a YouTube playlist
 
 == Installation ==
 
 1. Upload `huzzaz.php` to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. Place the shortcode: [huzzaz id="collection-id" vpp="?" height="?"] in your templates
+
+ex: [huzzaz id="infinitylist" vpp="16" height="1700"]
+
+The id of a Huzzaz video collection is found at the end of the url after "huzzaz.com/collection/"
+ex: the id of a Huzzaz collection whose URL is http://huzzaz.com/collection/stereo-inc is "stereo-inc"
 
 == Frequently Asked Questions ==
 
@@ -64,7 +62,7 @@ YouTube and Vimeo videos can both be shown
 This can be done directly on Huzzaz or using the Huzzaz bookmarklet. On Huzzaz you can drag and drop videos to reorganize and add videos to your collection in a variety of ways. The [bookmarklet](http://huzzaz.com/collect) can be used to add videos from any website straight to your Huzzaz collections. Your video gallery will be synced automagically.
 
 = How do I create a video collection on Huzzaz? =
-Sign up [here](http://huzzaz.com/beta/join) and create a collection
+Sign up [here](http://huzzaz.com/beta.join) and create a collection
 
 == Screenshots ==
 
