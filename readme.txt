@@ -47,7 +47,7 @@ Features:
 
 ex: [huzzaz id="infinitylist" vpp="16" height="1700"]
 
-collection-id = name found at the end of the url after "huzzaz.com/collection/"
+collection-id = ID found at the end of the url after "huzzaz.com/collection/"
 
 ex: collection-id of http://huzzaz.com/collection/stereo-inc is "stereo-inc"
 
