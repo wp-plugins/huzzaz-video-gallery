@@ -14,7 +14,7 @@ An awesome, easy to use YouTube and Vimeo video gallery powered by Huzzaz. One s
 
 [Details](http://about.huzzaz.com/videogallery)
 
-Easily build and organize video collections on [Huzzaz](http://about.huzzaz.com). 
+Easily build and organize video collections on [Huzzaz](http://about.huzzaz.com)
 
 Share a Huzzaz video collection in an awesome video gallery with a simple shortcode
 
