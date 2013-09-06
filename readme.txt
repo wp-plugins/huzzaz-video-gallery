@@ -45,6 +45,10 @@ Features:
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. Place the shortcode: [huzzaz id="collection-id" vpp="?" height="?"] in your templates
 
+b
+h
+j
+
 ex: [huzzaz id="infinitylist" vpp="16" height="1700"]
 
 collection-id (found at the end of the url after "huzzaz.com/collection/")
