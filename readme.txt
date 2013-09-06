@@ -44,15 +44,15 @@ Features:
 1. Upload `huzzaz.php` to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. Place the shortcode: [huzzaz id="collection-id" vpp="?" height="?"] in your templates
-
 = ex: [huzzaz id="infinitylist" vpp="16" height="1700"] =
 
+
 collection-id (found at the end of the url after "huzzaz.com/collection/")
-= ex: the id of a Huzzaz collection whose URL is http://huzzaz.com/collection/stereo-inc is "stereo-inc" =
+= ex: collection-id of http://huzzaz.com/collection/stereo-inc is "stereo-inc" =
 
-vpp (videos per page)
+vpp = videos per page
 
-height (height of video gallery in pixels, adjust accordingly)
+height = height of video gallery in pixels, adjust accordingly
 
 [Details](http://about.huzzaz.com/videogallery)
 
