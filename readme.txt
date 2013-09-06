@@ -35,7 +35,7 @@ Features:
 * Huzzaz gallery has drag and drop functionality to reorganize videos in collection
 * Add videos from any website with the Huzzaz bookmarklet...
 * or use links to YouTube or Vimeo videos...
-* Or search YouTube and Vimeo videos at the same time!
+* Or search YouTube and Vimeo videos at the same time on Huzzaz!
 * OR discover awesome videos from other Huzzaz collections and add them to your own!!
 * OAR import a YouTube playlist
 
