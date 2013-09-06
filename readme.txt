@@ -47,11 +47,11 @@ Features:
 
 ex: [huzzaz id="infinitylist" vpp="16" height="1700"]
 
-collection-id {found at the end of the url after "huzzaz.com/collection/"}
+collection-id (found at the end of the url after "huzzaz.com/collection/")
 ex: the id of a Huzzaz collection whose URL is http://huzzaz.com/collection/stereo-inc is "stereo-inc"
 
-vpp {videos per page}
-height {height of video gallery in pixels, adjust accordingly}
+vpp (videos per page)
+height (height of video gallery in pixels, adjust accordingly)
 
 == Frequently Asked Questions ==
 
