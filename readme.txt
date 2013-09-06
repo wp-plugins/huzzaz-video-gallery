@@ -50,8 +50,8 @@ ex: [huzzaz id="infinitylist" vpp="16" height="1700"]
 The id of a Huzzaz video collection is found at the end of the url after "huzzaz.com/collection/"
 ex: the id of a Huzzaz collection whose URL is http://huzzaz.com/collection/stereo-inc is "stereo-inc"
 
-vpp=videos per page
-height=height of video gallery in pixels (adjust accordingly)
+vpp `=` videos per page
+height `=` height of video gallery in pixels (adjust accordingly)
 
 == Frequently Asked Questions ==
 
