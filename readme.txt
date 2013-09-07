@@ -1,7 +1,7 @@
 === Huzzaz Video Gallery ===
 Contributors: James Yang
 Donate link: https://donate.salvationarmyusa.org/sslpage.aspx?pid=206
-Tags: video, video gallery, youtube gallery, vimeo gallery, embed videos, youtube, vimeo, embed youtube, embed vimeo, shortcode, embedding youtube, embedding vimeo, plugin, simple, simple youtube, simple vimeo, smart youtube playback, smart vimeo playback, video plugin, video shortcode, video gallery shortcode, wordpress youtube embed, wordpress vimeo embed, youtube embed, vimeo embed, youtube embedding, vimeo embedding, youtube player, vimeo player, youtube plugin, vimeo plugin
+Tags: video, video gallery, youtube gallery, vimeo gallery, embed videos, youtube, vimeo, embed youtube, embed vimeo, shortcode, embedding youtube, embedding vimeo, plugin, simple, simple youtube, simple vimeo, smart youtube playback, smart vimeo playback, video plugin, video shortcode, video gallery shortcode, wordpress youtube embed, wordpress vimeo embed, youtube embed, vimeo embed, youtube embedding, vimeo embedding, youtube player, vimeo player, youtube plugin, vimeo plugin, youtube video gallery, vimeo video gallery, youtube and vimeo video gallery
 Requires at least: 3.0.1
 Tested up to: 3.6
 Stable tag: 1.0
