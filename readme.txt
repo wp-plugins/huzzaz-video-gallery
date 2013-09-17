@@ -26,7 +26,7 @@ Top 3 reasons to use Huzzaz Video Gallery:
 1. Fully responsive to fill any containing element it is placed in, even blog posts
 1. Automatically paginates when you choose the # of videos you want show on a page
 
-To save your video collections and use the Huzzaz Graphical User Interface, sign up for a FREE Huzzaz account [here](http://huzzaz.com/beta/join)
+Sign up for a FREE Huzzaz account [here](http://huzzaz.com/beta/join) to save your video collections and use the Huzzaz Graphical User Interface
 
 Features:
 
