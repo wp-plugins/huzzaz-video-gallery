@@ -26,7 +26,7 @@ Top 3 reasons to use Huzzaz Video Gallery:
 1. Fully responsive to fill any containing element it is placed in, even blog posts
 1. Automatically paginates when you choose the # of videos you want show on a page
 
-Sign up to create video collections on Huzzaz for FREE [here](http://huzzaz.com/beta/join)
+To save your video collections and use the Huzzaz Graphical User Interface, sign up for a FREE Huzzaz account [here](http://huzzaz.com/beta/join)
 
 Features:
 
@@ -36,8 +36,8 @@ Features:
 * Add videos from any website with the Huzzaz bookmarklet...
 * or use links to YouTube or Vimeo videos...
 * Or search YouTube and Vimeo videos at the same time on Huzzaz!
-* OR discover awesome videos from other Huzzaz collections and add them to your own!!
-* OAR import a YouTube playlist
+* Or discover awesome videos from other Huzzaz collections and add them to your own!!
+* Or import a YouTube playlist
 
 == Installation ==
 

@@ -33,7 +33,7 @@ function huzzaz_func( $atts ) {
 		'height' => '1700',
 	), $atts ) );
 
-	$gallery = '<div style="width:100%; height: ' . $height . 'px; margin: 0 auto;"><iframe src="http://huzzaz.com/icollection/' . $id . '?vpp=' . $vpp . '" height="100%" width="100%" frameborder="0"></iframe></div>';
+	$gallery = '<div style="width:100%; height: ' . $height . 'px; margin: 0 auto;"><iframe src="http://huzzaz.com/embed/' . $id . '?vpp=' . $vpp . '" height="100%" width="100%" frameborder="0"></iframe></div>';
 
 	return $gallery;
 }
