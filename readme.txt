@@ -28,6 +28,10 @@ Top 3 reasons to use Huzzaz Video Gallery:
 
 Sign up for a FREE Huzzaz account [here](http://huzzaz.com/beta/join) to save your video collections and use the Huzzaz Graphical User Interface
 
+What is Huzzaz? Find out [here](http://about.huzzaz.com)
+
+Check out more details about our WP plugin [here](http://about.huzzaz.com/videogallery)
+
 Features:
 
 * Automatically plays the next video after current video is playing
