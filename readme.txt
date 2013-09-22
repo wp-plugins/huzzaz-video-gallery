@@ -71,7 +71,7 @@ YouTube and Vimeo videos can both be shown
 This can be done directly on Huzzaz or using the Huzzaz bookmarklet. On Huzzaz you can drag and drop videos to reorganize and add videos to your collection in a variety of ways. The [bookmarklet](http://huzzaz.com/collect) can be used to add videos from any website straight to your Huzzaz collections. Your video gallery will be synced automagically.
 
 = How do I create a video collection on Huzzaz? =
-Sign up [here](http://huzzaz.com/beta.join) and create a collection
+Sign up [here](http://huzzaz.com/beta/join) and create a collection
 
 == Screenshots ==
 
