@@ -18,40 +18,43 @@ Share a Huzzaz video collection in an awesome video gallery with a simple shortc
 
 Top 3 reasons to use Huzzaz Video Gallery:
 
-1. Update your video gallery without messing with the WP admin panel
-1. Fully responsive to fill any containing element it is placed in, even blog posts
-1. Automatically paginates when you choose the # of videos you want show on a page
+1. Turn your WordPress Page or Blog Post into a beautiful video gallery
+1. The only video gallery plugin that frees you from WP’s admin panel and allows you to collect and organize videos easily by using Huzzaz.
+1. Fully responsive and automatically paginates your video gallery for you
 
-Sign up for a FREE Huzzaz account [here](http://huzzaz.com/beta/join) to save your video collections and use the Huzzaz Graphical User Interface
+Download this plugin and create a FREE Huzzaz account [here](http://huzzaz.com/beta/join)
 
-What is Huzzaz? Find out [here](http://about.huzzaz.com)
+Learn more about Huzzaz [here](http://about.huzzaz.com)
 
-Check out more details about our WP plugin [here](http://about.huzzaz.com/videogallery)
-
-Features:
+Video Gallery Features:
 
 * Automatically plays the next video after current video is playing
 * Highlights current video that’s playing and shows title in the title bar
-* Huzzaz gallery has drag and drop functionality to reorganize videos in collection
-* Add videos from any website with the Huzzaz bookmarklet...
-* or use links to YouTube or Vimeo videos...
-* Or search YouTube and Vimeo videos at the same time on Huzzaz!
-* Or discover awesome videos from other Huzzaz collections and add them to your own!!
-* Or import a YouTube playlist
+* Easily adjust the number of videos shown in the gallery and paginates all the videos in the gallery
+* Fully responsive gallery that will adjust to any width and still look good
+* The only plugin powered by magic kitten paws
+
+Huzzaz Features:
+
+* Drag and drop functionality to reorganize videos
+* Add videos to your video gallery by using links to videos or searching YouTube and Vimeo at the same time
+* Update your gallery by adding videos from any website with the Huzzaz bookmarklet
+* Follow other collectors on Huzzaz with similar interests and discover awesome videos you could add to your own video gallery
+* Import any YouTube playlist and fill your blog with 100’s of videos in minutes
 
 == Installation ==
 
 *Create your video collections [here](http://huzzaz.com/beta/join) (It's free and easy!)*
 
 1. Upload `huzzaz.php` to the `/wp-content/plugins/` directory
-1. Activate the plugin through the 'Plugins' menu in WordPress
-1. Place the shortcode: [huzzaz id="collection-id" vpp="?" height="?"] in your templates
+1. Activate the plugin through the 'Plugins' menu in the WordPress admin panel
+1. Place the shortcode on any page of blog post: [huzzaz id="collection-id" vpp="?" height="?"] in your templates
 
-ex: [huzzaz id="infinitylist" vpp="16" height="1700"]
+example: [huzzaz id="infinitylist" vpp="16" height="1700"]
 
 collection-id = This at the end of the url of your video collection after "huzzaz.com/collection/"
 
-ex: collection-id of http://huzzaz.com/collection/infinitylist is "infinitylist"
+example: collection-id of http://huzzaz.com/collection/infinitylist is "infinitylist"
 
 vpp = videos per page
 
@@ -67,11 +70,22 @@ Yes
 = What types of videos can I add to my video gallery? =
 YouTube and Vimeo videos can both be shown
 
-= How do I add videos and reorganize my video gallery? =
-This can be done directly on Huzzaz or using the Huzzaz bookmarklet. On Huzzaz you can drag and drop videos to reorganize and add videos to your collection in a variety of ways. The [bookmarklet](http://huzzaz.com/collect) can be used to add videos from any website straight to your Huzzaz collections. Your video gallery will be synced automagically.
+= How do I add videos to my video gallery? =
+1. Copy & paste YouTube or Vimeo video links
+1. Use the Huzzaz bookmarklet
+1. Add videos from Huzzaz video collections
+1. Use the Huzzaz video search to look for YouTube and Vimeo videos simultaneously
+
+Your video gallery will automatically sync and update with your Huzzaz video collection. 
+
+= How do reorganize my video gallery? =
+Just drag any video and drop it wherever you want when viewing your video collection on Huzzaz.com
 
 = How do I create a video collection on Huzzaz? =
-Sign up [here](http://huzzaz.com/beta/join) and create a collection
+Sign up [here](http://huzzaz.com/beta/join) and create a collection.
+
+= Where do i get the Huzzaz bookmarklet? =
+Right [here](http://huzzaz.com/collect). Now you will be add videos to your own website while browsing YouTube, Vimeo, or any other website with YouTube/Vimeo videos.
 
 == Screenshots ==
 
