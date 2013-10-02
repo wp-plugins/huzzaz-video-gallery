@@ -48,7 +48,8 @@ Huzzaz Features:
 
 1. Upload `huzzaz.php` to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in the WordPress admin panel
-1. Place the shortcode on any page of blog post: [huzzaz id="collection-id" vpp="?" height="?"] in your templates
+1. Place the shortcode on any page of blog post:
+[huzzaz id="collection-id" vpp="?" height="?"]
 
 example: [huzzaz id="infinitylist" vpp="16" height="1700"]
 
