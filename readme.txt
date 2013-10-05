@@ -53,7 +53,7 @@ Huzzaz Features:
 
 example: [huzzaz id="infinitylist" vpp="16" height="1700"]
 
-collection-id = This at the end of the url of your video collection after "huzzaz.com/collection/"
+collection-id = This can be found at the end of the url of your video collection after "huzzaz.com/collection/"
 
 example: collection-id of http://huzzaz.com/collection/infinitylist is "infinitylist"
 
