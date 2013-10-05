@@ -79,7 +79,7 @@ YouTube and Vimeo videos can both be shown
 
 Your video gallery will automatically sync and update with your Huzzaz video collection. 
 
-= How do reorganize my video gallery? =
+= How do I reorganize my video gallery? =
 Just drag any video and drop it wherever you want when viewing your video collection on Huzzaz.com
 
 = How do I create a video collection on Huzzaz? =
