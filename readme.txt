@@ -32,7 +32,7 @@ Video Gallery Features:
 * Highlights current video that’s playing and shows title in the title bar
 * Easily adjust the number of videos shown in the gallery and paginates all the videos in the gallery
 * Fully responsive gallery that will adjust to any width and still look good
-* The only plugin powered by magic kitten paws
+* The only video gallery plugin powered by magic kitten paws
 
 Huzzaz Features:
 
