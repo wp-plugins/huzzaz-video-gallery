@@ -27,6 +27,7 @@ The Huzzaz platform isn't open to the public yet, but for a limited time Wordpre
 
 Huzzaz Video Gallery Plugin Features:
 
+* *new feature* Custom colors are now available in version 2.0
 * Automatically plays the next video after current video is playing
 * Highlights current video that’s playing and shows title in the title bar
 * Easily adjust the number of videos shown in the gallery and paginates all the videos in the gallery
@@ -50,9 +51,9 @@ Learn more about the Huzzaz community [here](http://about.huzzaz.com)
 1. Upload `huzzaz.php` to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in the WordPress admin panel
 1. Place the shortcode on any page or blog post:
-[huzzaz id="?" vpp="?" height="?"]
+[huzzaz id="?" vpp="?" height="?" bg="?" color="?" button="?" highlight="?"]
 
-example: [huzzaz id="infinitylist" vpp="16" height="1700"]
+example: [huzzaz id="infinitylist" vpp="16" height="1700" bg="darkgray" color="\*fff" button="cyan" highlight="\*ffd700"]
 
 id = Find this at the end of your video collection URL on Huzzaz.com
 
@@ -61,6 +62,19 @@ example: The id for http://huzzaz.com/collection/infinitylist is "infinitylist"
 vpp = videos per page
 
 height = height of video gallery in pixels, adjust accordingly
+
+*note: below are custom color options. Use a hex color code or [CSS color name](http://www.w3schools.com/cssref/css_colornames.asp)*
+
+*all hex colors should be prefixed by the * symbol instead of the # symbol*
+example: the hex color #1abaff should be written as *1abaff
+
+bg = background color
+
+color = font color
+
+button = button color
+
+highlight = accent color for button hovers, link hovers, and selected video
 
 [Official Huzzaz Video Gallery Documentation](http://about.huzzaz.com/videogallery)
 
@@ -97,4 +111,5 @@ Right [here](http://huzzaz.com/collect). Now you will be add videos to your own 
 
 == Changelog ==
 
+2.0 Added custom colors
 1.0 First version
