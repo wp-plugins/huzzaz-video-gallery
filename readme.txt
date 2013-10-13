@@ -59,19 +59,19 @@ example: [huzzaz id="infinitylist" vpp="16" height="1700" bg="darkgray" color="\
 
 example: The id for http://huzzaz.com/collection/infinitylist is "infinitylist"
 
-* vpp = videos per page
+* vpp = videos per page (optional)
 
 * height = height of video gallery in pixels, adjust accordingly
 
-* bg = background color
+* bg = background color (optional)
 
-* color = font color
+* color = font color (optional)
 
-* button = button color
+* button = button color (optional)
 
-* highlight = accent color for button hovers, link hovers, and selected video
+* highlight = accent color for button hovers, link hovers, and selected video (optional)
 
-*note: For custom color options. Use a hex color code or [CSS color name](http://www.w3schools.com/cssref/css_colornames.asp).*
+*note: For custom color options, use a hex color code or [CSS color name](http://www.w3schools.com/cssref/css_colornames.asp).*
 *All hex colors should be prefixed by the * symbol instead of the # symbol*
 
 example: the hex color #1abaff should be written as *1abaff
