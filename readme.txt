@@ -66,6 +66,7 @@ height = height of video gallery in pixels, adjust accordingly
 *note: below are custom color options. Use a hex color code or [CSS color name](http://www.w3schools.com/cssref/css_colornames.asp)*
 
 *all hex colors should be prefixed by the * symbol instead of the # symbol*
+
 example: the hex color #1abaff should be written as *1abaff
 
 bg = background color
