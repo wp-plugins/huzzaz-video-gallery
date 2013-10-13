@@ -107,7 +107,7 @@ Right [here](http://huzzaz.com/collect). Now you will be add videos to your own 
 
 1. Put your video gallery anywhere, even in a blog post!
 2. Now, it's super easy to set up, organize and manage a beautiful YouTube and Vimeo video gallery
-3. Your video gallery will be responsive and fill up any containing element
+3. Choose your own custom colors and your video gallery will be responsive and fill up any containing element
 
 == Changelog ==
 
