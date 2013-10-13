@@ -55,27 +55,27 @@ Learn more about the Huzzaz community [here](http://about.huzzaz.com)
 
 example: [huzzaz id="infinitylist" vpp="16" height="1700" bg="darkgray" color="\*fff" button="cyan" highlight="\*ffd700"]
 
-id = Find this at the end of your video collection URL on Huzzaz.com
+* id = Find this at the end of your video collection URL on Huzzaz.com
 
 example: The id for http://huzzaz.com/collection/infinitylist is "infinitylist"
 
-vpp = videos per page
+* vpp = videos per page
 
-height = height of video gallery in pixels, adjust accordingly
+* height = height of video gallery in pixels, adjust accordingly
 
-*note: below are custom color options. Use a hex color code or [CSS color name](http://www.w3schools.com/cssref/css_colornames.asp)*
+* bg = background color
 
-*all hex colors should be prefixed by the * symbol instead of the # symbol*
+* color = font color
+
+* button = button color
+
+* highlight = accent color for button hovers, link hovers, and selected video
+
+*note: For custom color options. Use a hex color code or [CSS color name](http://www.w3schools.com/cssref/css_colornames.asp).*
+*All hex colors should be prefixed by the * symbol instead of the # symbol*
 
 example: the hex color #1abaff should be written as *1abaff
 
-bg = background color
-
-color = font color
-
-button = button color
-
-highlight = accent color for button hovers, link hovers, and selected video
 
 [Official Huzzaz Video Gallery Documentation](http://about.huzzaz.com/videogallery)
 
@@ -112,5 +112,9 @@ Right [here](http://huzzaz.com/collect). Now you will be add videos to your own 
 
 == Changelog ==
 
-2.0 Added custom colors
-1.0 First version
+= 2.0 = 
+
+* Added custom colors
+
+= 1.0 =
+* First version
