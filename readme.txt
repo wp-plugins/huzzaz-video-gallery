@@ -21,7 +21,9 @@ Top 3 reasons to use Huzzaz Video Gallery:
 1. Collect and organize videos "Pinterest style" using Huzzaz. No need for the WP admin panel.
 1. Fully responsive and automatically paginates your video gallery for you.
 
-This platform isn't open to the public yet, but for a limited time Wordpress users can sign up for free [here](http://huzzaz.com/beta/join?src=wp) to join our beta community and contribute to the development of our awesome plugin.
+Sign up for free [here](http://huzzaz.com/beta/join?src=wp)
+
+The Huzzaz platform isn't open to the public yet, but for a limited time Wordpress users can join to contribute to the development of our awesome plugin.
 
 Huzzaz Video Gallery Plugin Features:
 
