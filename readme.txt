@@ -28,10 +28,11 @@ The Huzzaz platform isn't open to the public yet, but for a limited time Wordpre
 Huzzaz Video Gallery Plugin Features:
 
 * *new feature* Custom colors are now available in version 2.0
-* Automatically plays the next video after current video is playing
-* Highlights current video that’s playing and shows title in the title bar
-* Easily adjust the number of videos shown in the gallery and paginates all the videos in the gallery
+* Automatically plays the next video in the playlist after the current video is playing
+* Highlights current video in the playlist that’s playing and shows title in the title bar
+* Easily adjust the number of videos shown in the gallery and paginates all the videos in the playlist
 * Fully responsive gallery that will adjust to any width and still look good
+* Easily create an awesome video gallery from your video playlist
 * The only video gallery plugin powered by magic kitten paws
 
 Huzzaz.com Features:
@@ -39,7 +40,7 @@ Huzzaz.com Features:
 * Huzzaz.com syncs with the Huzzaz Video Gallery plugin
 * Drag and drop functionality to reorganize videos
 * Add videos to your video gallery by using links to videos or searching YouTube and Vimeo at the same time
-* Update your gallery by adding videos from any website with the Huzzaz bookmarklet
+* Update your video gallery by adding videos from any website with the Huzzaz bookmarklet
 * Follow other collectors on Huzzaz with similar interests and discover awesome videos you could add to your own video gallery
 * Import any YouTube playlist and fill your blog with 100’s of videos in minutes
 
@@ -61,7 +62,7 @@ example: [huzzaz id="infinitylist" vpp="16" height="1700" bg="darkgray" color="\
 
 example: The id for http://huzzaz.com/collection/infinitylist is "infinitylist"
 
-* vpp = videos per page (optional)
+* vpp = videos per page shown (optional)
 
 * height = height of video gallery in pixels, adjust accordingly
 
