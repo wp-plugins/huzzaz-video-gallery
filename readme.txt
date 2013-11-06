@@ -4,7 +4,7 @@ Donate link: https://donate.salvationarmyusa.org/sslpage.aspx?pid=206
 Tags: video, video gallery, youtube gallery, vimeo gallery, embed videos, youtube, vimeo, embed youtube, embed vimeo, shortcode, embedding youtube, embedding vimeo, plugin, simple, simple youtube, simple vimeo, smart youtube playback, smart vimeo playback, video plugin, video shortcode, video gallery shortcode, wordpress youtube embed, wordpress vimeo embed, youtube embed, vimeo embed, youtube embedding, vimeo embedding, youtube player, vimeo player, youtube plugin, vimeo plugin, youtube video gallery, vimeo video gallery, youtube and vimeo video gallery, youtube video gallery plugin, vimeo video gallery plugin, youtube and vimeo video gallery plugin, video playlist, youtube playlist, vimeo playlist, youtube and vimeo playlist, youtube video playlist, vimeo video playlist, youtube and vimeo playlist, embed video playlist, video playlist embed, youtube playlist plugin, vimeo playlist plugin, youtube and vimeo playlist plugin, youtube video playlist plugin, vimeo video playlist plugin, youtube and vimeo playlist plugin
 Requires at least: 3.0.1
 Tested up to: 3.6
-Stable tag: 2.0.3
+Stable tag: 2.1
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -113,6 +113,10 @@ Right [here](http://huzzaz.com/collect). Now you will be add videos to your own 
 3. Choose your own custom colors and your video gallery will be responsive and fill up any containing element
 
 == Changelog ==
+
+= 2.1 = 
+
+* Allow fullscreen ability for youtube videos
 
 = 2.0.3 = 
 
