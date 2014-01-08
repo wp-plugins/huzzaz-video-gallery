@@ -114,6 +114,14 @@ Right [here](http://huzzaz.com/collect). Now you will be add videos to your own 
 
 == Changelog ==
 
+= 2.3 = 
+
+Default background of video gallery will now be transparent
+
+= 2.2 = 
+
+Added pro functionalities
+
 = 2.1 = 
 
 * Allow fullscreen ability for youtube videos
