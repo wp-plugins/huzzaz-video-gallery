@@ -21,7 +21,7 @@ Top 3 reasons to use Huzzaz Video Gallery:
 1. Collect and organize videos "Pinterest style" using Huzzaz. No need for the WP admin panel.
 1. Fully responsive and automatically paginates your video gallery for you.
 
-Sign up for free [here](http://huzzaz.com/beta/join?src=wp)
+Sign up for free [here](http://huzzaz.com/join)
 
 The Huzzaz platform isn't open to the public yet, but for a limited time Wordpress users can join for free and contribute to the development of our awesome plugin.
 
@@ -47,7 +47,7 @@ Huzzaz.com Features:
 Learn more about the Huzzaz community [here](http://about.huzzaz.com)
 
 == Installation ==
-*Start by creating a video collection on Huzzaz [here](http://huzzaz.com/beta/join?src=wp)*
+*Start by creating a video collection on Huzzaz [here](http://huzzaz.com/join)*
 
 1. Upload `huzzaz.php` to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in the WordPress admin panel
@@ -101,7 +101,7 @@ Your video gallery will automatically sync and update with your Huzzaz video col
 Just drag any video and drop it wherever you want when viewing your video collection on Huzzaz.com
 
 = How do I create a video collection on Huzzaz? =
-Just sign up [here](http://huzzaz.com/beta/join?src=wp)
+Just sign up [here](http://huzzaz.com/join)
 
 = Where do I get the Huzzaz bookmarklet? =
 Right [here](http://huzzaz.com/collect). Now you will be add videos to your own website while browsing YouTube, Vimeo, or any other website with YouTube and Vimeo videos.
