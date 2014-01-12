@@ -28,7 +28,7 @@ License: GPL2
 // [huzzaz id="collection ID" vpp="16" height="1700"]
 function huzzaz_func( $atts ) {
 	extract( shortcode_atts( array(
-		'id' => 'infinitylist',
+		'id' => 'huzzaz-videos',
 		'vpp' => '16',
 		'height' => '1700',
         'bg' => '',
