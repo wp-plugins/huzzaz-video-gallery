@@ -23,7 +23,7 @@ Top 3 reasons to use Huzzaz Video Gallery:
 
 Sign up for free [here](http://huzzaz.com/join)
 
-The Huzzaz platform isn't open to the public yet, but for a limited time Wordpress users can join for free and contribute to the development of our awesome plugin.
+Check out the preview of our Huzzaz Pro video gallery [here](http://huzzazpro.tumblr.com/) and unlock them after joining.
 
 Huzzaz Video Gallery Plugin Features:
 
