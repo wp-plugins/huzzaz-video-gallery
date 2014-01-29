@@ -23,7 +23,7 @@ Top 3 reasons to use Huzzaz Video Gallery:
 
 Sign up for free [here](http://huzzaz.com/join)
 
-Check out the preview of our Huzzaz Pro video gallery [here](http://huzzazpro.tumblr.com/) and unlock them after joining. 
+Check out the preview of our Huzzaz Pro video gallery [here](http://huzzazpro.tumblr.com/) and unlock them after joining.
 
 Huzzaz Video Gallery Plugin Features:
 
