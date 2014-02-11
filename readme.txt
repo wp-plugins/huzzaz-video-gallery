@@ -11,10 +11,6 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 An awesome, easy to use YouTube and Vimeo video gallery powered by Huzzaz. One simple shortcode will help you win the Internet.
 
 == Description ==
-Share all the videos you want in one place with a simple shortcode:
-
-[huzzaz]
-
 Top 3 reasons to use Huzzaz Video Gallery:
 
 1. Turn your WordPress Page or Blog Post into a beautiful video gallery.
@@ -22,6 +18,8 @@ Top 3 reasons to use Huzzaz Video Gallery:
 1. Fully responsive and automatically paginates your video gallery for you.
 
 Sign up for free [here](http://huzzaz.com/join)
+
+Watch the [Huzzaz Wordpress video gallery tutorial](http://www.youtube.com/watch?v=SCFxTu1Fq3s)
 
 Check out the preview of our Huzzaz Pro video gallery [here](http://huzzazpro.tumblr.com/) and unlock them after joining. 
 
