@@ -2,8 +2,8 @@
 /*
 Plugin Name: Huzzaz Video Gallery
 Plugin URI: http://about.huzzaz.com/videogallery
-Description: An awesome, easy to use YouTube and Vimeo video gallery powered by Huzzaz. Activate and use the shortcode: [huzzaz id="?" vpp="?" height="?"] Visit the plugin site for more details.
-Version: 1.0
+Description: An awesome, easy to use YouTube and Vimeo video gallery powered by Huzzaz. Activate and use the shortcode: [huzzaz id="?" vpp="?" height="?" bg="?" color="?" button="?" highlight="?"]. Register at huzzaz.com/beta/join?src=wp to create a video collection. Visit the plugin site for more details.
+Version: 2.4
 Author: Huzzaz
 Author URI: http://huzzaz.com
 License: GPL2
@@ -27,14 +27,23 @@ License: GPL2
 
 // [huzzaz id="collection ID" vpp="16" height="1700"]
 function huzzaz_func( $atts ) {
-	extract( shortcode_atts( array(
-		'id' => 'infinitylist',
-		'vpp' => '16',
-		'height' => '1700',
-	), $atts ) );
+    extract( shortcode_atts( array(
+        'id' => 'huzzaz-videos',
+        'vpp' => '16',
+        'height' => '1700',
+        'bg' => '',
+        'color' => '',
+        'button' => '',
+        'highlight' => '',
+        'pro' => 0,
+        'layout' => '',
+    ), $atts ) );
 
-	$gallery = '<div style="width:100%; height: ' . $height . 'px; margin: 0 auto;"><iframe src="http://huzzaz.com/icollection/' . $id . '?vpp=' . $vpp . '" height="100%" width="100%" frameborder="0"></iframe></div>';
+    if( !$pro )
+        $gallery = '<div class="huzzazWrapper" style="width:100%; height: ' . $height . 'px; margin: 0 auto;"><iframe src="http://huzzaz.com/embed/' . $id . '?vpp=' . $vpp . '&bg=' . $bg . '&color=' . $color . '&button=' . $button . '&highlight=' . $highlight .'" height="100%" width="100%" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen allowTransparency="true"></iframe></div>';
+    else
+        $gallery = '<div class="huzzazWrapper" style="width:100%; height: ' . $height . 'px; margin: 0 auto;"><iframe src="http://huzzaz.com/proembed/' . $id . '?layout=' . $layout . '&vpp=' . $vpp . '&bg=' . $bg . '&color=' . $color . '&button=' . $button . '&highlight=' . $highlight .'" height="100%" width="100%" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen allowTransparency="true"></iframe></div>';
 
-	return $gallery;
+    return $gallery;
 }
 add_shortcode( 'huzzaz', 'huzzaz_func' );
