@@ -8,7 +8,7 @@ Stable tag: 2.4
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-An awesome, easy to use YouTube and Vimeo video gallery powered by Huzzaz. One simple shortcode will help you win the Internet. 
+An awesome, easy to use YouTube and Vimeo video gallery powered by Huzzaz. One simple shortcode will help you win the Internet.
 
 == Description ==
 Top 3 reasons to use Huzzaz Video Gallery:
