@@ -3,7 +3,7 @@ Contributors: James Yang
 Donate link: https://donate.salvationarmyusa.org/sslpage.aspx?pid=206
 Tags: video gallery, youtube gallery, vimeo gallery, embed videos, youtube and vimeo video playlist plugin, youtube and vimeo video gallery shortcode, smart youtube and vimeo playback, wordpress youtube and vimeo embed, youtube player, vimeo player, youtube search, vimeo search
 Requires at least: 3.0.1
-Tested up to: 3.8.3
+Tested up to: 3.9.1
 Stable tag: 3.0
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -22,7 +22,7 @@ Sign up for free [here](http://huzzaz.com/join)
 
 Watch the [Huzzaz Wordpress video gallery tutorial](http://www.youtube.com/watch?v=SCFxTu1Fq3s)
 
-Check out the preview of our Huzzaz Pro video gallery [here](http://huzzazpro.tumblr.com/) and unlock them after joining. 
+Check out the preview of our Huzzaz Pro video gallery [here](http://biz.huzzaz.com/pro-video-galleries/) and unlock them after joining. 
 
 Huzzaz Video Gallery Plugin Features:
 
