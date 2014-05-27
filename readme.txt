@@ -4,7 +4,7 @@ Donate link: https://donate.salvationarmyusa.org/sslpage.aspx?pid=206
 Tags: video gallery, youtube gallery, vimeo gallery, embed videos, youtube and vimeo video playlist plugin, youtube and vimeo video gallery shortcode, smart youtube and vimeo playback, wordpress youtube and vimeo embed, youtube player, vimeo player, youtube search, vimeo search
 Requires at least: 3.0.1
 Tested up to: 3.9.1
-Stable tag: 3.0
+Stable tag: 3.1
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -26,6 +26,7 @@ Check out the preview of our Huzzaz Pro video gallery [here](http://biz.huzzaz.c
 
 Huzzaz Video Gallery Plugin Features:
 
+* *new feature* Added support for https:// websites
 * *new feature* Custom colors are now available in version 2.0
 * Automatically plays the next video in the playlist after the current video is playing
 * Highlights current video in the playlist that’s playing and shows title in the title bar
@@ -112,6 +113,10 @@ Right [here](http://huzzaz.com/collect). Now you will be add videos to your own 
 3. Choose your own custom colors and your video gallery will be responsive and fill up any containing element
 
 == Changelog ==
+
+= 3.1 = 
+
+Added support for https:// websites and added new layouts
 
 = 3.0 = 
 
