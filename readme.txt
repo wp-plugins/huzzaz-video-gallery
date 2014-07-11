@@ -24,8 +24,12 @@ Watch the [Huzzaz Wordpress video gallery tutorial](http://www.youtube.com/watch
 
 Check out the preview of our Huzzaz Pro video gallery [here](http://biz.huzzaz.com/pro-video-galleries/) and unlock them after joining. 
 
+[Tutorial videos and extra documentation](http://about.huzzaz.com/videogallery)
+
 Huzzaz Video Gallery Plugin Features:
 
+* *new feature* Create links to individual videos within the gallery
+* *new feature* Autoplay the video gallery
 * *new feature* Added support for https:// websites
 * *new feature* Custom colors are now available in version 2.0
 * Automatically plays the next video in the playlist after the current video is playing
