@@ -28,6 +28,7 @@ Check out the preview of our Huzzaz Pro video gallery [here](http://biz.huzzaz.c
 
 Huzzaz Video Gallery Plugin Features:
 
+* *new feature* Popout Video Gallery! - Add a link on your page that creates a video gallery in a new window
 * *new feature* Create links to individual videos within the gallery
 * *new feature* Autoplay the video gallery
 * *new feature* Added support for https:// websites
@@ -117,6 +118,10 @@ Right [here](http://huzzaz.com/collect). Now you will be add videos to your own 
 3. Choose your own custom colors and your video gallery will be responsive and fill up any containing element
 
 == Changelog ==
+
+= 3.3 = 
+
+Added popout video gallery link functionality
 
 = 3.2 = 
 
