@@ -119,6 +119,10 @@ Right [here](http://huzzaz.com/collect). Now you will be add videos to your own 
 
 == Changelog ==
 
+= 3.31 = 
+
+Adjusted popout video gallery to work better on mobile devices
+
 = 3.3 = 
 
 Added popout video gallery link functionality
