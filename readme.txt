@@ -3,8 +3,8 @@ Contributors: James Yang
 Donate link: https://donate.salvationarmyusa.org/sslpage.aspx?pid=206
 Tags: video gallery, youtube gallery, vimeo gallery, embed videos, youtube and vimeo video playlist plugin, youtube and vimeo video gallery shortcode, smart youtube and vimeo playback, wordpress youtube and vimeo embed, youtube player, vimeo player, youtube search, vimeo search
 Requires at least: 3.0.1
-Tested up to: 4.0
-Stable tag: 4.0
+Tested up to: 4.1
+Stable tag: 3.4
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -118,6 +118,10 @@ Right [here](http://huzzaz.com/collect). Now you will be add videos to your own 
 3. Choose your own custom colors and your video gallery will be responsive and fill up any containing element
 
 == Changelog ==
+
+= 3.4 = 
+
+Added new layout, "Wayne", that shows the description and has a paginated gallery below the video. Also added optional variable "class" to allow for custom classes and CSS customization.
 
 = 3.32 = 
 
