@@ -59,7 +59,9 @@ Learn more about the Huzzaz community [here](http://about.huzzaz.com)
 1. Place the shortcode on any page or blog post:
 [huzzaz id="?" vpp="?" height="?" bg="?" color="?" button="?" highlight="?"]
 
-= You can now copy paste the shortcode from the video collection page! Just click the "&lt;/&gt;" button on the right sidebar and fill out the fields to customize height, videos per page, and colors =
+[Official Huzzaz Video Gallery Documentation](http://about.huzzaz.com/videogallery)
+
+= You can copy and paste the shortcode from the video collection page! Just click the "&lt;/&gt;" button on the right sidebar and fill out the fields to customize height, videos per page, and colors =
 
 example: [huzzaz id="huzzaz-videos" vpp="16" height="1700" bg="darkgray" color="\*fff" button="cyan" highlight="\*ffd700"]
 
@@ -83,8 +85,6 @@ example: The id for http://huzzaz.com/collection/huzzaz-videos is "huzzaz-videos
 *All hex colors should be prefixed by the * symbol instead of the # symbol*
 
 example: the hex color #1abaff should be written as *1abaff
-
-[Official Huzzaz Video Gallery Documentation](http://about.huzzaz.com/videogallery)
 
 == Frequently Asked Questions ==
 
