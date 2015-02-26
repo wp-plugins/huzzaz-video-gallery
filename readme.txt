@@ -59,7 +59,7 @@ Learn more about the Huzzaz community [here](http://about.huzzaz.com)
 1. Place the shortcode on any page or blog post:
 [huzzaz id="?" vpp="?" height="?" bg="?" color="?" button="?" highlight="?"]
 
-[Official Huzzaz Video Gallery Documentation](http://about.huzzaz.com/videogallery)
+[Huzzaz Video Gallery Tutorials and Documentation](http://about.huzzaz.com/videogallery)
 
 = You can copy and paste the shortcode from the video collection page! Just click the "&lt;/&gt;" button on the right sidebar and fill out the fields to customize height, videos per page, and colors =
 
