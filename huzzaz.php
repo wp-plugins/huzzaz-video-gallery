@@ -3,7 +3,7 @@
 Plugin Name: Huzzaz Video Gallery
 Plugin URI: http://about.huzzaz.com/videogallery
 Description: An awesome, easy to use YouTube and Vimeo video gallery powered by Huzzaz. Activate and use the shortcode: [huzzaz id="?" vpp="?" height="?" bg="?" color="?" button="?" highlight="?"]. Register at huzzaz.com/beta/join?src=wp to create a video collection. Visit the plugin site for more details.
-Version: 4.1
+Version: 4.2
 Author: Huzzaz
 Author URI: http://huzzaz.com
 License: GPL2
@@ -39,6 +39,7 @@ function huzzaz_func( $atts ) {
         'layout' => '',
         'search' => '',
         'gicon' => '',
+        'titleoverlay' => '',
         'popoutlink' => 0,
         'linktext' => 'Click Me',
         'class' => 'huzzazWrapper'
@@ -48,9 +49,9 @@ function huzzaz_func( $atts ) {
         $gallery = '<div class="' . $class . '" style="width:100%; height: ' . $height . 'px; margin: 0 auto;"><iframe src="https://huzzaz.com/embed/' . $id . '?vpp=' . $vpp . '&bg=' . $bg . '&color=' . $color . '&button=' . $button . '&highlight=' . $highlight .'" height="100%" width="100%" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen allowTransparency="true"></iframe></div>';
     else {
         if ( !$popoutlink )
-            $gallery = '<div class="' . $class . '" style="width:100%; height: ' . $height . 'px; margin: 0 auto;"><iframe src="https://huzzaz.com/proembed/' . $id . '?layout=' . $layout . '&vpp=' . $vpp . '&bg=' . $bg . '&color=' . $color . '&button=' . $button . '&highlight=' . $highlight . '&search=' . $search . '&gicon=' . $gicon . '" height="100%" width="100%" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen allowTransparency="true"></iframe></div>';
+            $gallery = '<div class="' . $class . '" style="width:100%; height: ' . $height . 'px; margin: 0 auto;"><iframe src="https://huzzaz.com/proembed/' . $id . '?layout=' . $layout . '&vpp=' . $vpp . '&bg=' . $bg . '&color=' . $color . '&button=' . $button . '&highlight=' . $highlight . '&search=' . $search . '&gicon=' . $gicon . '&titleoverlay=' . $titleoverlay . '" height="100%" width="100%" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen allowTransparency="true"></iframe></div>';
         else {
-            $href = 'https://huzzaz.com/proembed/' . $id . '?layout=popout' . '&search=' . $search . '&bg=' . $bg . '&color=' . $color . '&button=' . $button . '&highlight=' . $highlight . '&gicon=' . $gicon;
+            $href = 'https://huzzaz.com/proembed/' . $id . '?layout=popout' . '&search=' . $search . '&bg=' . $bg . '&color=' . $color . '&button=' . $button . '&highlight=' . $highlight . '&gicon=' . $gicon . '&titleoverlay=' . $titleoverlay;
             $gallery = '<a class="huzzazPopoutLink" onclick="window.open(\'' . $href . '\', \'newwindow\', \'scrollbars=1,width=1025, height=650\'); return false;" href="' . $href . '">' . $linktext . '</a>';
         }
     }
