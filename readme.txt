@@ -1,6 +1,6 @@
 === Huzzaz Video Gallery ===
 Contributors: James Yang
-Donate link: https://donate.salvationarmyusa.org/sslpage.aspx?pid=206
+Donate link: https://huzzaz.com/pro
 Tags: video gallery, youtube gallery, vimeo gallery, embed videos, youtube and vimeo video playlist plugin, youtube and vimeo video gallery shortcode, smart youtube and vimeo playback, wordpress youtube and vimeo embed, youtube player, vimeo player, youtube search, vimeo search
 Requires at least: 3.0.1
 Tested up to: 4.1.1
@@ -11,16 +11,19 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 An awesome, easy to use YouTube and Vimeo video gallery powered by Huzzaz. One simple shortcode will help you win the Internet. 
 
 == Description ==
+https://www.youtube.com/watch?v=kzfr6XRFyr0
+
 Top 3 reasons to use Huzzaz Video Gallery:
 
 1. Turn your WordPress Page or Blog Post into a beautiful video gallery.
 1. Collect and organize videos using an intuitive drag and drop interface. No need for the WP admin panel.
 1. Fully responsive and automatically paginates your video gallery for you.
-1. *New video search capabilities within galleries in pro version*
+1. Video search capabilities within galleries in pro version*
+1. Link to specific videos or autoplay video gallery in pro version*
 
 Sign up for free [here](http://huzzaz.com/join)
 
-Watch the [Huzzaz Wordpress video gallery tutorial](http://www.youtube.com/watch?v=SCFxTu1Fq3s)
+Watch the [Huzzaz Wordpress video gallery tutorial](http://about.huzzaz.com/videogallery?hzv=45747)
 
 Check out the preview of our Huzzaz Pro video gallery [here](http://biz.huzzaz.com/pro-video-galleries/) and unlock them after joining. 
 
@@ -28,11 +31,11 @@ Check out the preview of our Huzzaz Pro video gallery [here](http://biz.huzzaz.c
 
 Huzzaz Video Gallery Plugin Features:
 
-* *new feature* Popout Video Gallery! - Add a link on your page that creates a video gallery in a new window
-* *new feature* Create links to individual videos within the gallery
-* *new feature* Autoplay the video gallery
-* *new feature* Added support for https:// websites
-* *new feature* Custom colors are now available in version 2.0
+* Popout Video Gallery! - Add a link on your page that creates a video gallery in a new window
+* Create links to individual videos within the gallery
+* Autoplay the video gallery
+* Support for https:// websites
+* Custom colors for video gallery
 * Automatically plays the next video in the playlist after the current video is playing
 * Highlights current video in the playlist that’s playing and shows title in the title bar
 * Easily adjust the number of videos shown in the gallery and paginates all the videos in the playlist
