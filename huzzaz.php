@@ -2,7 +2,7 @@
 /*
 Plugin Name: Huzzaz Video Gallery
 Plugin URI: http://about.huzzaz.com/videogallery
-Description: An awesome, easy to use YouTube and Vimeo video gallery powered by Huzzaz. Activate and use the shortcode: [huzzaz id="?" vpp="?" height="?" bg="?" color="?" button="?" highlight="?"]. Register at huzzaz.com/beta/join?src=wp to create a video collection. Visit the plugin site for more details.
+Description: An awesome, easy to use YouTube and Vimeo video gallery powered by Huzzaz. Activate and use the shortcode: [huzzaz id="?" vpp="?" height="?" bg="?" color="?" button="?" highlight="?"]. Register at huzzaz.com/join?src=wp to create a video collection. Visit the plugin site for more details.
 Version: 4.2
 Author: Huzzaz
 Author URI: http://huzzaz.com
