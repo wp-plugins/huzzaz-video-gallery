@@ -31,7 +31,6 @@ Check out the preview of our Huzzaz Pro video gallery [here](http://biz.huzzaz.c
 
 Huzzaz Video Gallery Plugin Features:
 
-* Popout Video Gallery! - Add a link on your page that creates a video gallery in a new window
 * Create links to individual videos within the gallery
 * Autoplay the video gallery
 * Support for https:// websites
@@ -41,7 +40,7 @@ Huzzaz Video Gallery Plugin Features:
 * Easily adjust the number of videos shown in the gallery and paginates all the videos in the playlist
 * Fully responsive gallery that will adjust to any width and still look good
 * Easily create an awesome video gallery from your video playlist
-* The only video gallery plugin powered by magic kitten paws
+* Popout Video Gallery! - Add a link on your page that creates a video gallery in a new window
 
 Huzzaz.com Features:
 
