@@ -4,7 +4,7 @@ Donate link: https://huzzaz.com/pro
 Tags: video gallery, youtube gallery, vimeo gallery, embed videos, youtube and vimeo video playlist plugin, youtube and vimeo video gallery shortcode, smart youtube and vimeo playback, wordpress youtube and vimeo embed, youtube player, vimeo player, youtube search, vimeo search
 Requires at least: 3.0.1
 Tested up to: 4.1.1
-Stable tag: 4.2
+Stable tag: 4.3
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -12,6 +12,8 @@ An awesome, easy to use YouTube and Vimeo video gallery powered by Huzzaz. One s
 
 == Description ==
 https://www.youtube.com/watch?v=kzfr6XRFyr0
+
+[Check out our newest Pro layout](http://biz.huzzaz.com/pro-video-galleries/#hzcard)
 
 Top 3 reasons to use Huzzaz Video Gallery:
 
@@ -121,7 +123,11 @@ Right [here](http://huzzaz.com/collect). Now you will be add videos to your own 
 
 == Changelog ==
 
-= 4.1 = 
+= 4.3 = 
+
+Added new layout, hzCard, and title overlay features to Han Solo and hzCard layouts
+
+= 4.2 = 
 
 Added feature that enables title overlay when video thumbnail is hovered over
 
