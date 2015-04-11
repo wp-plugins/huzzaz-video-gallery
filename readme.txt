@@ -13,6 +13,8 @@ An awesome, easy to use YouTube and Vimeo video gallery powered by Huzzaz. One s
 == Description ==
 https://www.youtube.com/watch?v=kzfr6XRFyr0
 
+[Try these embed codes on your own website and showcase the best videos on the web](http://about.huzzaz.com/freestuff)
+
 [Check out our newest Pro layout](http://biz.huzzaz.com/pro-video-galleries/#hzcard)
 
 Top 3 reasons to use Huzzaz Video Gallery:
