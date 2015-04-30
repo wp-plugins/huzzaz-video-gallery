@@ -17,7 +17,7 @@ https://www.youtube.com/watch?v=kzfr6XRFyr0
 
 [Check out our newest Pro layout](http://biz.huzzaz.com/pro-video-galleries/#hzcard)
 
-Top 3 reasons to use Huzzaz Video Gallery:
+Top reasons to use Huzzaz Video Gallery:
 
 1. Turn your WordPress Page or Blog Post into a beautiful video gallery.
 1. Collect and organize YouTube and Vimeo videos using an intuitive drag and drop interface. No need for the WP admin panel.
