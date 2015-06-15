@@ -13,9 +13,11 @@ An awesome, easy to use YouTube and Vimeo video gallery powered by Huzzaz. One s
 == Description ==
 https://www.youtube.com/watch?v=kzfr6XRFyr0
 
-[Try these embed codes on your own website and showcase the best videos on the web](http://about.huzzaz.com/freestuff)
+Join over 4,000 websites who use Huzzaz to connect their audience to the videos that matter.
 
-[Check out our newest Pro layout](http://biz.huzzaz.com/pro-video-galleries/#hzcard)
+Our basic video gallery embed is AWESOME and free forever!
+Check out all our Pro video gallery designs [here](http://about.huzzaz.com/pro-video-galleries)
+Check out our Pro pricing [here](http://about.huzzaz.com/pricing)
 
 Top reasons to use Huzzaz Video Gallery:
 
@@ -28,8 +30,6 @@ Top reasons to use Huzzaz Video Gallery:
 Sign up for free [here](http://huzzaz.com/join)
 
 Watch the [Huzzaz Wordpress video gallery tutorial](http://about.huzzaz.com/videogallery?hzv=45747)
-
-Check out the preview of our Huzzaz Pro video gallery [here](http://biz.huzzaz.com/pro-video-galleries/) and unlock them after joining. 
 
 [Tutorial videos and extra documentation](http://about.huzzaz.com/videogallery)
 
