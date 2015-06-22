@@ -4,7 +4,7 @@ Donate link: https://huzzaz.com/pro
 Tags: video gallery, youtube gallery, vimeo gallery, embed videos, youtube and vimeo video playlist plugin, youtube and vimeo video gallery shortcode, smart youtube and vimeo playback, wordpress youtube and vimeo embed, youtube player, vimeo player, youtube search, vimeo search
 Requires at least: 3.0.1
 Tested up to: 4.2
-Stable tag: 4.4
+Stable tag: 4.5
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -17,13 +17,18 @@ https://www.youtube.com/watch?v=kzfr6XRFyr0
 
 We provide professional video experiences for your website with no tech experience required. Our basic video gallery embed is AWESOME and free forever. Check out our Pro video gallery designs [here](http://about.huzzaz.com/pro-video-galleries) and see our Pro pricing [here](http://about.huzzaz.com/pricing). [Try Pro for FREE](https://huzzaz.com/join) for 2 weeks and cancel at any time.
 
+Learn about our [Professional Features](http://about.huzzaz.com/features)
+
 Top reasons to use Huzzaz Video Gallery:
 
 1. Turn your WordPress Page or Blog Post into a beautiful video gallery.
 1. Collect and organize YouTube and Vimeo videos using an intuitive drag and drop interface. No need for the WP admin panel.
 1. Fully responsive and automatically paginates your video gallery for you.
 1. Video search capabilities within galleries in pro version*
-1. Link to specific videos or autoplay video gallery in pro version*
+1. Share with full size Facebook cards and Twitter cards that play all your videos in a single tweet
+1. Auto play or deep link to videos on your website
+1. Automatic HD playback for your videos
+1. Custom colors and design features
 
 Sign up for free [here](http://huzzaz.com/join)
 
@@ -121,7 +126,11 @@ Right [here](http://huzzaz.com/collect). Now you will be add videos to your own 
 
 == Changelog ==
 
-= 4.3 = 
+= 4.5 = 
+
+Added arrows for scrolling horizontal video thumbnails
+
+= 4.4 = 
 
 Tested up to version 4.2
 

@@ -3,7 +3,7 @@
 Plugin Name: Huzzaz Video Gallery
 Plugin URI: http://about.huzzaz.com/videogallery
 Description: An awesome, easy to use YouTube and Vimeo video gallery powered by Huzzaz. Activate and use the shortcode: [huzzaz id="?" vpp="?" height="?" bg="?" color="?" button="?" highlight="?"]. Register at huzzaz.com/join?src=wp to create a video collection. Visit the plugin site for more details.
-Version: 4.4
+Version: 4.5
 Author: Huzzaz
 Author URI: http://huzzaz.com
 License: GPL2
@@ -41,6 +41,7 @@ function huzzaz_func( $atts ) {
         'gicon' => '',
         'titleoverlay' => '',
         'showvideos' => '',
+        'arrows' => '',
         'popoutlink' => 0,
         'linktext' => 'Click Me',
         'class' => 'huzzazWrapper'
@@ -51,7 +52,7 @@ function huzzaz_func( $atts ) {
     else {
         if ( !$popoutlink ) {
             if ( $layout != "card" )
-                $gallery = '<div class="' . $class . '" style="width:100%; height: ' . $height . 'px; margin: 0 auto;"><iframe src="https://huzzaz.com/proembed/' . $id . '?layout=' . $layout . '&vpp=' . $vpp . '&bg=' . $bg . '&color=' . $color . '&button=' . $button . '&highlight=' . $highlight . '&search=' . $search . '&gicon=' . $gicon . '&titleoverlay=' . $titleoverlay . '&showvideos=' . $showvideos . '" height="100%" width="100%" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen allowTransparency="true"></iframe></div>';
+                $gallery = '<div class="' . $class . '" style="width:100%; height: ' . $height . 'px; margin: 0 auto;"><iframe src="https://huzzaz.com/proembed/' . $id . '?layout=' . $layout . '&vpp=' . $vpp . '&bg=' . $bg . '&color=' . $color . '&button=' . $button . '&highlight=' . $highlight . '&search=' . $search . '&gicon=' . $gicon . '&titleoverlay=' . $titleoverlay . '&showvideos=' . $showvideos . '&arrows=' . $arrows . '" height="100%" width="100%" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen allowTransparency="true"></iframe></div>';
             else
                 $gallery = '<div class="' . $class . '" style="padding-bottom: 54.8%; position: relative; padding-top: 25px; height: 0; margin-bottom: 16px; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0;" src="https://huzzaz.com/proembed/' . $id . '?layout=' . $layout . '&vpp=' . $vpp . '&bg=' . $bg . '&color=' . $color . '&button=' . $button . '&highlight=' . $highlight . '&search=' . $search . '&gicon=' . $gicon . '&titleoverlay=' . $titleoverlay . '&showvideos=' . $showvideos . '" height="100%" width="100%" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen allowTransparency="true"></iframe></div>';
         }
