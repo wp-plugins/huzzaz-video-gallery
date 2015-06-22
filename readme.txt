@@ -32,7 +32,7 @@ Top reasons to use Huzzaz Video Gallery:
 
 Sign up for free [here](http://huzzaz.com/join)
 
-Watch the [Huzzaz Wordpress video gallery tutorial](http://about.huzzaz.com/videogallery?hzv=45747) and read our extra documentation [here](http://about.huzzaz.com/docs/)
+Watch the [Huzzaz Wordpress video gallery tutorial](http://about.huzzaz.com/videogallery?hzv=45747) and read our extra documentation [here](http://about.huzzaz.com/features/)
 
 Huzzaz Video Gallery Plugin Features:
 
