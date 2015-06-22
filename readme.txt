@@ -24,8 +24,8 @@ Top reasons to use Huzzaz Video Gallery:
 1. Turn your WordPress Page or Blog Post into a beautiful video gallery.
 1. Collect and organize YouTube and Vimeo videos using an intuitive drag and drop interface. No need for the WP admin panel.
 1. Fully responsive and automatically paginates your video gallery for you.
-1. Video search capabilities within galleries in pro version*
-1. Share with full size Facebook cards and Twitter cards that play all your videos in a single tweet
+1. Video search capabilities within galleries
+1. Share full size Facebook cards and Twitter cards that play all your videos in a single tweet
 1. Auto play or deep link to videos on your website
 1. Automatic HD playback for your videos
 1. Custom colors and design features
