@@ -3,8 +3,8 @@ Contributors: James Yang
 Donate link: https://huzzaz.com/pro
 Tags: video gallery, youtube gallery, vimeo gallery, embed videos, youtube and vimeo video playlist plugin, youtube and vimeo video gallery shortcode, smart youtube and vimeo playback, wordpress youtube and vimeo embed, youtube player, vimeo player, youtube search, vimeo search
 Requires at least: 3.0.1
-Tested up to: 4.2
-Stable tag: 4.5
+Tested up to: 4.3
+Stable tag: 5.1
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -125,6 +125,14 @@ Right [here](http://huzzaz.com/collect). Now you will be add videos to your own 
 3. Choose your own custom colors and your video gallery will be responsive and fill up any containing element
 
 == Changelog ==
+
+= 5.1 = 
+
+Added autoplay functionality and output escaping
+
+= 5.0 = 
+
+Automatic sizing of video gallery to fit the page and tested compatibility for wordpress 4.3
 
 = 4.5 = 
 
