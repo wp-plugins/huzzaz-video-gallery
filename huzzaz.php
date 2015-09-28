@@ -3,7 +3,7 @@
 Plugin Name: Huzzaz Video Gallery
 Plugin URI: http://about.huzzaz.com/videogallery
 Description: An awesome, easy to use YouTube and Vimeo video gallery powered by Huzzaz. Activate and use the shortcode: [huzzaz id="?" vpp="?" bg="?" color="?" button="?" highlight="?"]. Register at huzzaz.com/join?src=wp to create a video collection. Visit the plugin site for more details.
-Version: 6.0
+Version: 6.1
 Author: Huzzaz
 Author URI: http://huzzaz.com
 License: GPL2
@@ -42,6 +42,7 @@ function huzzaz_func( $atts ) {
         'showvideos' => '',
         'arrows' => '',
         'autoplay' => '',
+        'nocoverart' => '',
         'popoutlink' => 0,
         'linktext' => 'Click Me',
         'class' => 'huzzazWrapper'
@@ -53,15 +54,15 @@ function huzzaz_func( $atts ) {
     } else {
         if ( !$popoutlink ) {
             if ( $layout != "card" ){
-                $src = 'https://huzzaz.com/proembed/' . $id . '?layout=' . $layout . '&vpp=' . $vpp . '&bg=' . $bg . '&color=' . $color . '&button=' . $button . '&highlight=' . $highlight . '&search=' . $search . '&gicon=' . $gicon . '&titleoverlay=' . $titleoverlay . '&showvideos=' . $showvideos . '&arrows=' . $arrows . '&hzauto=' . $autoplay;
+                $src = 'https://huzzaz.com/proembed/' . $id . '?layout=' . $layout . '&vpp=' . $vpp . '&bg=' . $bg . '&color=' . $color . '&button=' . $button . '&highlight=' . $highlight . '&search=' . $search . '&gicon=' . $gicon . '&titleoverlay=' . $titleoverlay . '&showvideos=' . $showvideos . '&arrows=' . $arrows . '&hzauto=' . $autoplay . '&nocoverart=' . $nocoverart;
                 $gallery = '<div class="' . esc_attr($class) . '"><iframe class="hzframe" src="' . esc_url($src) . '" height="1600" width="100%" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen allowTransparency="true"></iframe><script src="https://huzzaz.com/js/hzframe.js"></script></div>';
             } else {
-                $src = 'https://huzzaz.com/proembed/' . $id . '?layout=' . $layout . '&vpp=' . $vpp . '&bg=' . $bg . '&color=' . $color . '&button=' . $button . '&highlight=' . $highlight . '&search=' . $search . '&gicon=' . $gicon . '&titleoverlay=' . $titleoverlay . '&showvideos=' . $showvideos . '&hzauto=' . $autoplay;
+                $src = 'https://huzzaz.com/proembed/' . $id . '?layout=' . $layout . '&vpp=' . $vpp . '&bg=' . $bg . '&color=' . $color . '&button=' . $button . '&highlight=' . $highlight . '&search=' . $search . '&gicon=' . $gicon . '&titleoverlay=' . $titleoverlay . '&showvideos=' . $showvideos . '&hzauto=' . $autoplay . '&nocoverart=' . $nocoverart;
                 $gallery = '<div class="' . esc_attr($class) . '" style="padding-bottom: 54.8%; position: relative; padding-top: 25px; height: 0; margin-bottom: 16px; overflow: hidden;"><iframe style="position: absolute; top: 0; left: 0;" src="' . esc_url($src) . '" height="100%" width="100%" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen allowTransparency="true"></iframe></div>';
             }
         }
         else {
-            $href = 'https://huzzaz.com/proembed/' . $id . '?layout=popout' . '&search=' . $search . '&bg=' . $bg . '&color=' . $color . '&button=' . $button . '&highlight=' . $highlight . '&gicon=' . $gicon . '&titleoverlay=' . $titleoverlay . '&hzauto=' . $autoplay;
+            $href = 'https://huzzaz.com/proembed/' . $id . '?layout=popout' . '&search=' . $search . '&bg=' . $bg . '&color=' . $color . '&button=' . $button . '&highlight=' . $highlight . '&gicon=' . $gicon . '&titleoverlay=' . $titleoverlay . '&hzauto=' . $autoplay . '&nocoverart=' . $nocoverart;
             $gallery = '<a class="huzzazPopoutLink" onclick="window.open(\'' . esc_url($href) . '\', \'newwindow\', \'scrollbars=1,width=1025, height=650\'); return false;" href="' . esc_url($href) . '">' . esc_html($linktext) . '</a>';
         }
     }
